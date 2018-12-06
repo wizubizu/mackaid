@@ -1,19 +1,17 @@
 /*=================================================================
-  @media screen 1199px
-==================================================================*/
-
-
-@media screen and (max-width: 1199px){
-    
-    
-}
-
-/*=================================================================
   @media screen 1440px
 ==================================================================*/
 
 
 @media screen and (min-width: 1440px){
+    .__howlineimg {
+        height: 47vh;
+    }
+
+    .__howmd {
+    margin-top: 52%;
+    }
+
 
 }
 
@@ -23,7 +21,31 @@
 
 
 @media screen and (max-width: 1199px){
-    
+    .__howlineimg {
+    height: 38vh;
+    padding: 15px;
+    }
+
+    .__howu {
+    font-size: 25px;
+    }
+
+    .__howline {
+    width: 478px;
+    }
+
+    .__howu1 {
+    margin-top: 47%;
+    margin-left: -80px;
+    }
+
+    .__howmd {
+    margin-top: 38%;
+    }
+
+
+
+
 }
 
 
@@ -34,7 +56,21 @@
 
 @media screen and (max-width: 1220px){
   
-    
+    .__headt {
+        padding: 211px 0 172px;
+    }
+
+    .__medi {
+        bottom: -232px;
+    }
+
+    .__howlineimg {
+    height: 47vh;
+    }
+
+    .__howmd {
+    margin-top: 49%;
+    }
 
 }
 
@@ -46,9 +82,68 @@
 
 @media screen and (max-width: 1024px){
 
-.__email {
-    font-size: 13px;
-}
+    .__email {
+        font-size: 13px;
+    }
+
+    .__headt {
+        padding: 102px 0 198px;
+    }
+    .__medi {
+        bottom: -155px;
+        position: absolute;
+        width: 825px;
+        margin: 0 auto;
+        margin-left: 51px;
+    }
+
+    .__howlineimg {
+    height: 42vh;
+        padding: 41px;
+    }
+
+    .__howheadt {
+    padding: 205px 0 0;
+    text-align: center;
+    }
+
+    .__howlineimg img {
+    width: 120px;
+    height: 120px;
+    margin-top: 0px;
+    }
+
+    .__howu {
+    font-size: 25px;
+    }
+
+    .__howline {
+    width: 455px;
+    }
+
+    .__howu1 {
+    margin-top: 40%;
+    }
+
+    .__howmd {
+    margin-top: 32%;
+    }
+
+    .__pline {
+    height: 135vh;
+    }
+
+    .__aboutbg {
+    padding: 0;
+    }
+
+    .__plinel {
+    margin-left: 200px;
+    }
+
+    .__pliner {
+    margin-left: -13px;
+    }
 
 
 }
@@ -60,7 +155,10 @@
 
 
 @media screen and (max-width: 992px){
-   
+   .__howlineimg {
+    height: 38vh;
+    padding: 33px;
+    }
 }
 
 
@@ -78,6 +176,98 @@
     font-size: 12px;
   }
 
+    .__headt {
+        padding: 58px 0 119px;
+    }
+
+    .__medi {
+    bottom: -17px;
+    position: absolute;
+    width: 720px;
+    margin: 0 auto;
+    margin-left: 0px;
+    }
+
+    .__card {
+        margin-top: 10px;
+    }
+
+    .__howimgbg {
+    height: 65vh;
+    }
+
+    .__howheadt {
+    padding: 133px 0 0;
+    }
+
+    .__howu {
+    font-size: 18px;
+    }
+
+    .__howlineimg {
+    height: 31vh;
+    padding: 31px;
+    margin-top: 30px;
+    }
+
+    .__howlineimg img {
+    width: 80px;
+    height: 80px;
+    margin-top: 3px;
+    }
+
+    .__ul li img {
+    width: 60px;
+    height: 60px;
+    }
+
+    .__howline {
+    margin-top: 20%;
+    width: 369px;
+    }
+
+    .__howud {
+    margin-top: 8px;
+    font-size: 10px;
+    }
+
+
+    .__howu1 {
+    margin-top: 30%;
+    margin-left: -46px;
+    }
+
+    .__howmd {
+    margin-top: 30%;
+    }
+
+    .__howu1 p:nth-child(1) {
+    font-size: 18px;
+    }
+
+    .__howmd img {
+    width: 100px;
+    height: 100px;
+    }
+
+    .__howmd p {
+    font-size: 10px;
+    margin-top: 9px;
+    }
+
+
+    .__aboutbg {
+    padding: 0;
+    }
+
+    .__plinel {
+    margin-left: 240px;
+    }
+
+    .__pliner {
+     margin-left: -24px; 
+    }
+
 	
 
 }
@@ -92,6 +282,77 @@
    .__email {
     margin-top: -20px;
   }
+
+  .__medi {
+    bottom: -17px;
+    position: unset;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 3px;
+  }
+
+  .navbar-toggle {
+        color: #ffffff;
+        background: #2cbfe3;
+    }
+
+    .__phonetext {
+        margin-top: 5%;
+    }
+
+    .__foter {
+    text-align: center;
+    }
+
+
+    .__howu {
+    font-size: 30px;
+    margin-top: 8%;
+    }
+
+
+    .__howlineimg {
+    height: 46vh;
+    width: 48vh;
+    padding: 31px;
+    margin-top: 30px;
+    }
+
+    .__howlineimg img {
+    width: 120px;
+    height: 120px;
+    margin-top: 19px;
+    }
+
+    .__howmd {
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 6%;
+    }
+
+    .__ul li img {
+    width: 60px;
+    height: 60px;
+    }
+
+    .__howu1 {
+    margin-top: 6%;
+    margin-left: 0;
+    }
+
+    .__howu1 p:nth-child(1) {
+    font-size: 30px;
+    }
+
+    .__aboutmis p:nth-child(1) {
+    font-size: 20px;
+    }
+
+    .__aboutmis p:nth-child(2) {
+    font-size: 12px;
+    }
+
+
 
     
   
@@ -109,6 +370,122 @@
     margin-top: 0px;
     float: left;
   }
+
+    .__collapsenav {
+    padding: 1px 0 5px;
+    }
+
+    .__headt {
+        padding: 26px 0 26px;
+    }
+
+    .__appimg{
+      width: 134px;
+    }
+
+    .__headt p:nth-child(1) {
+        font-size: 20px;
+    }
+
+    .__headt p:nth-child(2) {
+        font-size: 14px;
+    }
+
+    .__phoneimg {
+        height: 78vh;
+        margin-left: 0;
+    }
+
+    .__medi {
+        bottom: -172px;
+        position: unset;
+        width: 100%;
+        margin: 0 auto;
+        margin-left: 0;
+    }
+
+    .navbar-toggle {
+        color: #ffffff;
+        background: #2cbfe3;
+    }
+
+
+    .__testimo {
+        padding: 15px 4px;
+    }
+
+    #quote-carousel .carousel-control.right {
+        right: -18px !important;
+    }
+
+    #quote-carousel .carousel-control.left {
+        left: -18px;
+    }
+
+    .__foter {
+        text-align: center;
+    }
+
+    .__howheadt p:nth-child(1) {
+    font-size: 30px;
+    }
+
+    .__howimgbg {
+        height: 100%;
+    }
+
+    .__howheadt {
+        padding: 66px 0 14px;
+    }
+
+    .__howu {
+    font-size: 20px;
+    margin-top: 9%;
+    }
+
+    .__howlineimg {
+    height: 100%;
+    padding: 53px;
+    }
+
+    .__howlineimg img {
+    margin-top: 2px;
+    }
+
+    .__howmd {
+    margin-top: 7%;
+    margin-right: 0px;
+    margin-left: 0;
+    text-align: center;
+    }
+
+    .__howu1 p:nth-child(1) {
+    font-size: 20px;
+    }
+
+    .__howu1 {
+    margin-top: 10%;
+    margin-left: 0;
+    }
+
+    .__ul li img {
+    width: 60px;
+    height: 60px;
+    }
+
+
+    .__aboutbg {
+     margin-top: 0;
+    padding: 0;
+    }
+
+    .__aboutmis p:nth-child(1) {
+    font-size: 15px;
+    }
+
+    .__aboutmis p:nth-child(2) {
+    font-size: 12px;
+    }
 
 }
 

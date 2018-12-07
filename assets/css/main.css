@@ -627,18 +627,12 @@ padding: 15px 0 0;
 }
 
 .__phoneimg{
-   background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-    height: 116vh;
+   height: 116vh;
   margin-left: -110px;
 }
 
 .__iosphoneimg{
-   background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-    height: 116vh;
+   height: 95vh;
   /*margin-left: -110px;*/
 }
 
@@ -653,13 +647,7 @@ padding: 15px 0 0;
   font-family:Poppins-Bold;
 }
 
-.__phonetext p:nth-child(2){
-  font-size: 16px;
-  line-height: 1.78;
-  color: #919aa3;
-}
-
-.__phonetext p:nth-child(3){
+.__phonetext p{
   font-size: 16px;
   line-height: 1.78;
   color: #919aa3;
@@ -688,12 +676,12 @@ padding: 15px 0 0;
   background-color: #f4f4f4;
     box-shadow: 0 0 1px 0 rgba(188, 188, 188, 0.5);
     padding: 20px;
-    height: 350px;
+    height: 274px;
 }
 
 .__card img{
   width: 100%;
-  height: 220px;
+  height: 150px;
 }
 
 .__card p:nth-child(2){
@@ -1114,27 +1102,39 @@ width: 40px;
  .__contd{
       background: #fcfcfc;
     padding: 50px;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
  }
 
  .__contd1{
       background: #079ad3;
-    padding: 50px;
+    padding: 50px 50px 190px;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
  }
 
  .__condrop{
-  font-size: 20px;
+  font-size: 16px;
   color: #079ad3;
   font-family:Poppins-Medium;
  }
 
  .__condrop1{
-  font-size: 20px;
+  font-size: 16px;
   color: #ffffff;
   font-family:Poppins-Medium;
  }
 
  .__conp{
   color: #ffffff;
+ }
+
+ .__contadd{
+  margin-top: 45px;
+ }
+
+ .__contadd img{
+  width: 23px;
  }
 
 
@@ -1158,13 +1158,14 @@ width: 40px;
   border-radius: 1.5px;
   box-shadow: 0 2.5px 3.5px 4.5px rgba(222, 222, 222, 0.5);
   background-color: #079ad3;
-  color: #ffffff;
+  color: #ffffff !important;
   padding: 6px 75px;
+  transition: all 0.4s ease-in;
 }
 
-.__contbtn:hover{
-  box-shadow: 0 2.5px 3.5px 4.5px rgba(222, 222, 222, 0.5);
-  color: #ffffff;
+.__contbtn:hover {
+    -webkit-box-shadow: 4px 4px 4px 2px rgba(7, 154, 211, 0.2);
+    box-shadow: 4px 4px 4px 2px rgba(7, 154, 211, 0.2);
    outline: none !important;
 }
 
@@ -1217,7 +1218,13 @@ font-size: 18px;
 
 .__searchbtn{
   background: #1c7293;
-  color: #ffffff;
+  color: #ffffff !important;
+  transition: all 0.4s ease-in;
+}
+
+.__searchbtn:hover {
+    -webkit-box-shadow: 4px 4px 0 0 #0d0e1b;
+    box-shadow: 4px 4px 0 0 #0d0e1b;
 }
 /*footer section end*/
 

@@ -4,6 +4,10 @@
 
 
 @media screen and (min-width: 1440px){
+
+    .__medi {
+    bottom: -257px;
+    }
     .__howlineimg {
         height: 47vh;
     }
@@ -21,6 +25,12 @@
 
 
 @media screen and (max-width: 1199px){
+
+    .__medi {
+    bottom: -179px;
+    margin-left: 46px;
+    }
+
     .__howlineimg {
     height: 38vh;
     padding: 15px;
@@ -43,6 +53,10 @@
     margin-top: 38%;
     }
 
+    .__contd1 {
+    padding: 50px 26px 190px;
+    }
+
 
 
 
@@ -57,11 +71,11 @@
 @media screen and (max-width: 1220px){
   
     .__headt {
-        padding: 211px 0 172px;
+        padding: 173px 0 210px;
     }
 
     .__medi {
-        bottom: -232px;
+        bottom: -179px;
     }
 
     .__howlineimg {
@@ -145,6 +159,10 @@
     margin-left: -13px;
     }
 
+    .__contd1 {
+    padding: 50px 24px 190px;
+    }
+
 
 }
 
@@ -186,6 +204,22 @@
     width: 720px;
     margin: 0 auto;
     margin-left: 0px;
+    }
+
+    .__phoneimg {
+    height: 109vh;
+    }
+
+    .__phonetext {
+    margin-top: 20%;
+    }
+
+    .__phonetext p:nth-child(1) {
+    font-size: 25px;
+    }
+
+    .__phonetext p{
+    font-size: 13px;
     }
 
     .__card {
@@ -266,6 +300,10 @@
 
     .__pliner {
      margin-left: -24px; 
+    }
+
+    .__contd1 {
+    padding: 50px 9px 190px;
     }
 
 	
@@ -350,6 +388,14 @@
 
     .__aboutmis p:nth-child(2) {
     font-size: 12px;
+    }
+
+    .__pr {
+    padding-right: 15px;
+    }
+
+    .__pl {
+    padding-left: 15px;
     }
 
 
@@ -485,6 +531,22 @@
 
     .__aboutmis p:nth-child(2) {
     font-size: 12px;
+    }
+
+    .__pr {
+    padding-right: 15px;
+    }
+
+    .__pl {
+    padding-left: 15px;
+    }
+
+    .__contd {
+    padding: 25px;
+    }
+
+    .__contd1 {
+    padding: 50px 23px 50px;
     }
 
 }

@@ -343,9 +343,9 @@
         margin-top: 5%;
     }
 
-    .__foter {
+    /*.__foter {
     text-align: center;
-    }
+    }*/
 
 
     .__howu {
@@ -478,9 +478,9 @@
         left: -18px;
     }
 
-    .__foter {
+    /*.__foter {
         text-align: center;
-    }
+    }*/
 
     .__howheadt p:nth-child(1) {
     font-size: 30px;
@@ -566,6 +566,7 @@
 
     .__fosocai{
         margin-top: 10px;
+        text-align:center;
     }
 
     .__fosocai p:nth-child(1){
@@ -584,6 +585,8 @@
     .__foter {
         padding: 40px 0 9px;
     }
+
+
 
 }
 

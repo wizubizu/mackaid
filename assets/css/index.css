@@ -306,6 +306,11 @@
     padding: 50px 9px 190px;
     }
 
+    .__card img {
+    width: 100%;
+    height: 195px;
+    }
+
 	
 
 }
@@ -396,6 +401,11 @@
 
     .__pl {
     padding-left: 15px;
+    }
+
+    .__card img {
+    width: 100%;
+    height: 348px;
     }
 
 
@@ -547,6 +557,32 @@
 
     .__contd1 {
     padding: 50px 23px 50px;
+    }
+
+    .__card img {
+    width: 100%;
+    height: 169px;
+    }
+
+    .__fosocai{
+        margin-top: 10px;
+    }
+
+    .__fosocai p:nth-child(1){
+        margin-left: -78px;
+    }
+
+    .__fosocai p:nth-child(2){
+        margin: -29px 0 -14px 0;
+    }
+
+    .__fosocai p:nth-child(3){
+        margin-left: 77px;
+        margin-top: -20px;
+    }
+
+    .__foter {
+        padding: 40px 0 9px;
     }
 
 }

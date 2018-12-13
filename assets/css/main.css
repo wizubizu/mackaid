@@ -488,11 +488,11 @@ padding: 15px 0 0;
 }
 
 .__headt{
-  padding: 164px 0 293px;
+  padding: 124px 0 189px;
 }
 
 .__headt p:nth-child(1){
-  font-size: 40px;
+  font-size: 35px;
   font-weight: bold;
   line-height: 1.2;
   color: #ffffff;
@@ -508,7 +508,7 @@ padding: 15px 0 0;
 }
 
 .__medi {
-    bottom: -172px;
+    bottom: -29px;
     position: absolute;
     width: 825px;
     margin: 0 auto;
@@ -556,12 +556,12 @@ padding: 15px 0 0;
 
 .__connt {
     font-size: 30px;
-    font-weight: bold;
+    /*font-weight: bold;*/
     letter-spacing: 0.4px;
     text-align: center;
     color: #555758;
-    font-family: Poppins-Bold;
-    margin-top: 5%;
+    /*font-family: Poppins-Bold;*/
+    margin-top: 10%;
 }
 
 .__howd1 {
@@ -593,7 +593,7 @@ padding: 15px 0 0;
 }
 
 .__howd {
-    margin-top: 10%;
+    margin-top: 15%;
     text-align: center;
 }
 
@@ -642,9 +642,9 @@ padding: 15px 0 0;
 
 .__phonetext p:nth-child(1){
   font-size: 30px;
-  font-weight: 600;
+  /*font-weight: 600;*/
   color: #606062;
-  font-family:Poppins-Bold;
+  /*font-family:Poppins-Bold;*/
 }
 
 .__phonetext p{
@@ -662,12 +662,12 @@ padding: 15px 0 0;
 
 .__doyou{
   font-size: 28px;
-  font-weight: 900;
+  /*font-weight: 900;*/
   line-height: 1.96;
   letter-spacing: 1.5px;
   text-align: center;
   color: #67676b;
-  font-family: Poppins-Bold;
+  /*font-family: Poppins-Bold;*/
   margin-top: 5%;
 }
 
@@ -676,7 +676,7 @@ padding: 15px 0 0;
   background-color: #f4f4f4;
     box-shadow: 0 0 1px 0 rgba(188, 188, 188, 0.5);
     padding: 20px;
-    height: 274px;
+    height: 100%;
 }
 
 .__card img{
@@ -827,6 +827,7 @@ padding: 15px 0 0;
 .item blockquote {
     border-left: none; 
     margin: 0;
+    color: #919aa3;
 }
 
 .item blockquote img {
@@ -845,6 +846,11 @@ padding: 15px 0 0;
     box-shadow: 1px 1px 3.5px 1px rgba(213, 213, 213, 0.5);
     background-color: #fcfcfc;
     padding: 15px 60px;
+}
+
+blockquote small {
+    color: #404040;
+    font-weight: 600;
 }
 
 
@@ -1174,7 +1180,7 @@ width: 40px;
 
 /*footer section*/
 .__foter{
-  background-image: linear-gradient(to bottom, #35bedf, #1988a3);
+  background-image: linear-gradient(to bottom, #647ad9, #091abe);
   padding: 80px 0 9px;
   margin-top: 5%;
 }
@@ -1202,9 +1208,9 @@ font-size: 18px;
   transition: all 0.4s ease-in;
 }
 
-.__fotr:hover{
+/*.__fotr:hover{
   color: #e1882e !important;
-}
+}*/
 
 .__fosocai span{
   color: #ffffff;
@@ -1217,7 +1223,7 @@ font-size: 18px;
 }
 
 .__searchbtn{
-  background: #1c7293;
+  background: #0e0a93;
   color: #ffffff !important;
   transition: all 0.4s ease-in;
 }

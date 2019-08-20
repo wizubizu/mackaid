@@ -16,6 +16,26 @@
     margin-top: 52%;
     }
 
+    .__carousel-inner {
+    height: 145vh;
+    }
+
+    .__content-sec {
+    padding: 35% 0 0 35% !important;
+    }
+
+    .__content-sec p:nth-child(1) {
+    font-size: 53px;
+    }
+
+    .__carouselleft {
+    margin-left: 37px;
+    }
+    .__carouselright {
+    width: 102px;
+    margin-right: -174px;
+    }
+
 
 }
 
@@ -54,7 +74,29 @@
     }
 
     .__contd1 {
-    padding: 50px 26px 190px;
+    padding: 50px 9px 95px;
+    }
+
+    .__content-sec {
+    padding: 35% 0 0 35% !important;
+    }
+
+    .__content-sec p:nth-child(1) {
+    font-size: 44px;
+    }
+
+    .__carouselleft {
+    width: 101px;
+    margin-left: 26px;
+    }
+
+    .__carouselright {
+    width: 111px;
+    margin-right: -176px;
+    }
+
+    .__hiwp {
+    font-size: 17px;
     }
 
 
@@ -85,7 +127,30 @@
     .__howmd {
     margin-top: 49%;
     }
+    .__hiw {
+    margin-top: 24%;
+    }
 
+    
+
+    .__carousel-inner {
+    height: 143vh;
+    }
+
+    .__content-sec {
+    padding: 35% 0 0 11% !important;
+    }
+
+    .__carouselleft {
+    margin-left: -70px;
+    }
+
+    .__carouselright {
+    width: 106px;
+    margin-right: -85px;
+    }
+
+    
 }
 
 
@@ -116,10 +181,6 @@
         padding: 41px;
     }
 
-    .__howheadt {
-    padding: 205px 0 0;
-    text-align: center;
-    }
 
     .__howlineimg img {
     width: 120px;
@@ -160,8 +221,41 @@
     }
 
     .__contd1 {
-    padding: 50px 24px 190px;
+    padding: 50px 9px 95px;
     }
+    .__inavbar {
+    top: 0;
+    }
+
+    .__hiw {
+    margin-top: 28%;
+    }
+
+    .__content-sec {
+    padding: 19% 0 0 16% !important;
+    }
+
+    .__content-sec p:nth-child(1) {
+    font-size: 48px;
+    }
+
+    .__carousel-inner {
+    height: 115vh;
+    }
+
+    .__carouselleft {
+     margin-left: -43px;
+    }
+
+    .__carouselright {
+    width: 114px;
+    margin-right: -121px;
+    }
+
+    .__hiwp {
+    font-size: 17px;
+    }
+
 
 
 }
@@ -177,6 +271,39 @@
     height: 38vh;
     padding: 33px;
     }
+
+    .__content-sec p:nth-child(1) {
+    font-size: 43px;
+    }
+
+    .__content-sec {
+    padding: 19% 0 0 13% !important;
+    }
+
+    .__carouselleft {
+    margin-top: 0;
+    margin-left: -54px;
+    }
+
+    .__carouselright {
+    margin-top: 0;
+    margin-right: -106px;
+    }
+
+    .__bg {
+    height: 100%;
+    }
+
+    .__howd1 {
+    height: 100%;
+    }
+
+    .__hiw {
+    margin-top: 15%;
+    }
+
+
+
 }
 
 
@@ -207,20 +334,16 @@
     }
 
     .__phoneimg {
-    height: 109vh;
+    /*height: 109vh;*/
     }
 
     .__phonetext {
     margin-top: 20%;
     }
 
-    .__phonetext p:nth-child(1) {
-    font-size: 25px;
-    }
+    
 
-    .__phonetext p{
-    font-size: 13px;
-    }
+    
 
     .__card {
         margin-top: 10px;
@@ -230,9 +353,6 @@
     height: 65vh;
     }
 
-    .__howheadt {
-    padding: 133px 0 0;
-    }
 
     .__howu {
     font-size: 18px;
@@ -303,7 +423,7 @@
     }
 
     .__contd1 {
-    padding: 50px 9px 190px;
+    padding: 50px 9px 75px;
     }
 
     .__card img {
@@ -311,6 +431,78 @@
     height: 195px;
     }
 
+    .__inavbar {
+    top: 4px;
+    }
+    .__link {
+    font-size: 13px;
+    }
+
+    .__content-sec p:nth-child(1) {
+    font-size: 30px;
+    }
+
+    .__content-sec {
+    padding: 25% 0 0 15% !important;
+    }
+
+    .__carouselleft {
+    margin-left: -39px;
+    margin-top: 45px;
+
+    }
+
+    .__carouselright {
+    width: 115px;
+    margin-right: -139px;
+    margin-top: 45px;
+    }
+
+    .__carousel-inner {
+    height: 88vh;
+    }
+
+    .__bg {
+    height: 100%;
+    }
+
+    .__connct p:nth-child(1) {
+    font-size: 18px;
+    }
+
+    .__howd1 {
+    height: 100%;
+    }
+
+    .__hiw {
+    margin-top: 10%;
+    }
+
+    .__fh {
+    margin-top: 30px;
+    }
+
+    .__foter {
+    padding: 21px 0 9px;
+    }
+
+    .swiper-slide {
+    width: 100% !important;
+    }
+
+    /*new home*/
+    .__abimgt {
+        margin: 0;
+    }
+
+    .__dowimg {
+        width: 100%;
+        margin-left: 0;
+    }
+    .__abp1 {
+        font-size: 15px;
+    }
+    
 	
 
 }
@@ -408,6 +600,30 @@
     height: 348px;
     }
 
+    .__carousel-inner {
+    height: 166vh;
+    }
+    .__content-sec p {
+    margin-top: 2%;
+    }
+
+    .__content-sec {
+    padding: 3% 0 0 4% !important;
+    }
+
+    .__inavbar {
+    position: unset;
+    margin-bottom: 0;
+    }
+
+    .__navin {
+    background: rgb(17, 119, 143);
+    }
+
+    .swiper-slide {
+    width: 100% !important;
+    }
+
 
 
     
@@ -431,6 +647,10 @@
     padding: 1px 0 5px;
     }
 
+    .__navout {
+    margin-top: 20px;
+    }
+
     .__headt {
         padding: 26px 0 26px;
     }
@@ -448,8 +668,7 @@
     }
 
     .__phoneimg {
-        height: 78vh;
-        margin-left: 0;
+        height: 38vh;
     }
 
     .__medi {
@@ -463,20 +682,19 @@
     .navbar-toggle {
         color: #ffffff;
         background: #2cbfe3;
+        margin-top: 13px;
     }
 
-
-    .__testimo {
-        padding: 15px 4px;
+    .swiper-slide {
+    width: 100% !important;
+    margin-right: 10px !important;
     }
 
-    #quote-carousel .carousel-control.right {
-        right: -18px !important;
-    }
-
-    #quote-carousel .carousel-control.left {
-        left: -18px;
-    }
+    /*.swiper-wrapper {
+    transform: translate3d(-665px, 0px, 0px) !important;
+    transition-duration: 400ms;
+    }*/
+   
 
     /*.__foter {
         text-align: center;
@@ -488,10 +706,6 @@
 
     .__howimgbg {
         height: 100%;
-    }
-
-    .__howheadt {
-        padding: 66px 0 14px;
     }
 
     .__howu {
@@ -551,6 +765,30 @@
     padding-left: 15px;
     }
 
+
+   .__content-sec {
+    padding: 1px 0 0 6% !important;
+    }
+
+    .__content-sec p:nth-child(1) {
+    font-size: 30px;
+    }
+
+    .__carouselleft {
+         margin-left: 23px;
+    }
+    .__carouselright {
+    margin-right: -226px;
+    }
+
+    .__kits {
+    margin-top: 10px;
+    }
+
+    .__bg {
+    height: 100%;
+    }
+
     .__contd {
     padding: 25px;
     }
@@ -562,6 +800,28 @@
     .__card img {
     width: 100%;
     height: 169px;
+    }
+
+    
+    .__phonetext p{
+    font-size: 13px;
+    }
+
+    .__fh {
+    margin-top: 15px;
+    }
+
+    .p-0 {
+    padding: 15px;
+    }
+
+    .__inavbar {
+    position: unset;
+    margin-bottom: 0;
+    }
+
+    .__navin{
+        background: rgb(17, 119, 143);
     }
 
     .__fosocai{
@@ -584,6 +844,59 @@
 
     .__foter {
         padding: 40px 0 9px;
+    }
+
+/*new home*/
+    .__abimgt {
+        margin: 0;
+        width: 100%;
+    }
+
+    .__navbar {
+        padding-top: 0;
+    }   
+
+    .__logom {
+        width: 120px;
+    }
+
+    .__trcap {
+        font-size: 28px;
+    }
+
+    .__trcap1 {
+        font-size: 14px;
+    }
+
+    .__dowbtn {
+        /*font-size: 12px;*/
+        padding: 9px;
+        margin-top: 16px;
+    }
+
+    .__dowbtn1 {
+        /*font-size: 12px;*/
+        padding: 9px;
+        margin-top: 16px;
+    }
+
+    .__abp1 {
+        font-size: 15px;
+    }
+
+    .__dowimg {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 35px;
+    }
+
+    .__smimg{
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .__letcard1 {
+        margin-top: 10px;
     }
 
 
